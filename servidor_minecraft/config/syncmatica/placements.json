@@ -1,0 +1,23 @@
+{
+  "placements": [
+    {
+      "id": "fae19fe4-e05e-4ce9-ac99-0b94e4d3f0ae",
+      "file_name": "iron peruana",
+      "hash": "31bdeb53-95a4-337a-b6e0-9a90d828a491",
+      "origin": {
+        "position": [
+          -1083,
+          100,
+          -823
+        ],
+        "dimension": "minecraft:overworld"
+      },
+      "rotation": "NONE",
+      "mirror": "NONE",
+      "owner": {
+        "uuid": "d69db74d-0594-3f25-ad3d-1a3ac2c93c89",
+        "name": "gusla"
+      }
+    }
+  ]
+}

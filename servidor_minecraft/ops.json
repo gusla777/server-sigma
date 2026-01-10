@@ -1,0 +1,20 @@
+[
+  {
+    "uuid": "d7a36c57-4500-3b12-a5bf-5c11d25ca1e4",
+    "name": "lucena:enjoyer",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "d69db74d-0594-3f25-ad3d-1a3ac2c93c89",
+    "name": "gusla",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "ae80c95b-db67-3d67-b012-d199e18b2a62",
+    "name": "lucena_enjoyer",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]

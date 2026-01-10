@@ -1,0 +1,9 @@
+{
+  "default_dig": "combined_blocks",
+  "dig_display": {},
+  "dig_display_color": {},
+  "offline_digs": true,
+  "stat": [],
+  "stat_color": "FFEE44",
+  "total_enabled": true
+}

@@ -1,0 +1,63 @@
+{
+  "tcp_alloc": {
+    "allowed": 4,
+    "claimed": 1,
+    "desired": 1
+  },
+  "tunnels": [
+    {
+      "active": true,
+      "agent_over_limit": false,
+      "alloc": {
+        "data": {
+          "assigned_domain": "boston-gnome.gl.joinmc.link",
+          "assigned_srv": "boston-gnome.gl.joinmc.link",
+          "assignment": {
+            "type": "shared-ip"
+          },
+          "id": "c2548980-da67-4db7-9d0d-8716848a0e03",
+          "ip_hostname": "223.ip.gl.ply.gg",
+          "ip_type": "both",
+          "port_end": 32434,
+          "port_start": 32433,
+          "region": "global",
+          "static_ip4": "147.185.221.223",
+          "static_ip6": "2602:fbaf:0:1::df",
+          "tunnel_ip": "147.185.221.223"
+        },
+        "status": "allocated"
+      },
+      "created_at": "2026-01-07T19:11:33.293163Z",
+      "disabled_reason": null,
+      "domain": null,
+      "expire_notice": null,
+      "firewall_id": null,
+      "hostname_verify_level": "NoRawIp",
+      "id": "df7d6734-4a48-4a89-a9df-cfbd4a6d6337",
+      "name": "Minecraft Java",
+      "origin": {
+        "data": {
+          "agent_id": "807495a7-7056-4f69-87bf-8b201bfce37c",
+          "agent_name": "SkibidiSMP",
+          "local_ip": "127.0.0.1",
+          "local_port": 25565
+        },
+        "type": "agent"
+      },
+      "port_count": 1,
+      "port_type": "tcp",
+      "proxy_protocol": null,
+      "ratelimit": {
+        "bytes_per_second": null,
+        "packets_per_second": null
+      },
+      "region": "global",
+      "tunnel_type": "minecraft-java"
+    }
+  ],
+  "udp_alloc": {
+    "allowed": 4,
+    "claimed": 0,
+    "desired": 0
+  }
+}
